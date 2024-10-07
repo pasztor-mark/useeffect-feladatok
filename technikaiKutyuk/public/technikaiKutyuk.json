@@ -1,0 +1,49 @@
+{
+    "phones": [
+      {
+        "id": 1,
+        "brand": "Apple",
+        "model": "iPhone 14",
+        "price": 999,
+        "features": {
+          "storage": "128GB",
+          "camera": "12MP",
+          "battery": "3110mAh"
+        }
+      },
+      {
+        "id": 2,
+        "brand": "Samsung",
+        "model": "Galaxy S22",
+        "price": 899,
+        "features": {
+          "storage": "256GB",
+          "camera": "50MP",
+          "battery": "3700mAh"
+        }
+      },
+      {
+        "id": 3,
+        "brand": "Google",
+        "model": "Pixel 7",
+        "price": 799,
+        "features": {
+          "storage": "128GB",
+          "camera": "50MP",
+          "battery": "4355mAh"
+        }
+      },
+      {
+        "id": 4,
+        "brand": "OnePlus",
+        "model": "OnePlus 10 Pro",
+        "price": 849,
+        "features": {
+          "storage": "256GB",
+          "camera": "48MP",
+          "battery": "5000mAh"
+        }
+      }
+    ]
+  }
+  
