@@ -1,0 +1,40 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Egri csillagok",
+            "author": "Gárdonyi Géza",
+            "price": 3990,
+            "genre": "Történelmi regény",
+            "pages": 568,
+            "publisher": "Móra Könyvkiadó"
+        },
+        {
+            "id": 2,
+            "title": "A Pál utcai fiúk",
+            "author": "Molnár Ferenc",
+            "price": 2990,
+            "genre": "Ifjúsági regény",
+            "pages": 240,
+            "publisher": "Móra Könyvkiadó"
+        },
+        {
+            "id": 3,
+            "title": "Az arany ember",
+            "author": "Jókai Mór",
+            "price": 4590,
+            "genre": "Romantikus regény",
+            "pages": 608,
+            "publisher": "Kossuth Kiadó"
+        },
+        {
+            "id": 4,
+            "title": "Légy jó mindhalálig",
+            "author": "Móricz Zsigmond",
+            "price": 3490,
+            "genre": "Klasszikus irodalom",
+            "pages": 320,
+            "publisher": "Móra Könyvkiadó"
+        }
+    ]
+}
