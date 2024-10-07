@@ -1,0 +1,29 @@
+{
+    "cars" : [
+        {
+            "id": 1,
+            "brand": "Suzuki Swift",
+            "price": 1000000
+        },
+        {
+            "id": 2,
+            "brand": "Dacia Sandero",
+            "price": 950000
+        },
+        {
+            "id": 3,
+            "brand": "Opel Corsa",
+            "price": 1100000
+        },
+        {
+            "id": 4,
+            "brand": "Ford Fiesta",
+            "price": 1050000
+        },
+        {
+            "id": 5,
+            "brand": "Hyundai i10",
+            "price": 980000
+        }
+    ]
+}
